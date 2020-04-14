@@ -12,3 +12,5 @@ Widgets en uso
 
 <img src="https://github.com/FederHuaman/restaurant_app/blob/master/Screenshot_1586822223.png?raw=true" width="500" />
 
+<img src="https://github.com/FederHuaman/restaurant_app/blob/master/Screenshot_1586822671.png?raw=true" width="500" />
+
